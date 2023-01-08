@@ -3,14 +3,16 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To create a canvas, input your desired width and height, then press Submit
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+To select your color, click on the color picker and use the color wheel to select your color.
 
-## Contributing
+To draw, click on any pixel in the canvas. 
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+To delete the canvas, click Delete Canvas.
+
+To clear the canvas click Clear Canvas.
+
